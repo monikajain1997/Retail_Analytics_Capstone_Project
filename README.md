@@ -21,29 +21,14 @@ Welcome to the *Retail Analysis Power BI Project! This dashboard provides deep i
 
 ---
 
-## 🏗 Project Structure
-
-📂 Retail-Analysis-PowerBI
-│-- 📁 Data (Raw & processed data files)
-│-- 📁 Reports (Power BI report files)
-│-- 📁 Docs (Project documentation & insights)
-│-- 📜 retail_analysis.pbix (Power BI Dashboard File)
-│-- 📜 README.md (Project Overview)
-
-
-## 🚀 Deployment Methods
-📌 *Power BI Service* - Publish to the cloud for easy access & collaboration  
-📌 *Power BI Report Server* - Host on-premises for internal business use  
-📌 *Power BI Embedded* - Integrate dashboards into web applications using REST API  
-
 ## ⚡ Installation & Usage
 1️⃣ *Clone the Repository:*
    bash
-   git clone https://github.com/yourusername/retail-analysis-powerbi.git
+   git clone https://github.com/monikajain1997/Retail_Analytics_Capstone_Project.git
    
 2️⃣ *Open the Power BI Report:*
    - Launch *Power BI Desktop*
-   - Open retail_analysis.pbix
+   - Open Capstone_Project_Retail_Analytics_new.pbix
 3️⃣ *Connect to Data & Refresh:*
    - Ensure data sources are properly linked
    - Click *Refresh* to update insights
@@ -51,7 +36,15 @@ Welcome to the *Retail Analysis Power BI Project! This dashboard provides deep i
 ---
 
 ## 🎨 Dashboard Preview
-![Retail Analysis Power BI Dashboard](https://your-image-link-here.png)
+![Dashboard_1](https://github.com/user-attachments/assets/1ab9dbd5-fed2-44f0-9062-11b16f47af6a)
+
+![Dashboard_2](https://github.com/user-attachments/assets/b1335f85-be14-4b60-8d11-490f945a17d9)
+
+![Dashboard_3](https://github.com/user-attachments/assets/637812e3-e5bd-447c-a2c9-2df8d46c03dc)
+
+![Dashboard_4](https://github.com/user-attachments/assets/03f3ee50-2c29-4595-821e-5ca96734644a)
+
+![Dahboard_5](https://github.com/user-attachments/assets/f5c90b4c-048a-40a0-add4-f39872f9b50c)
 
 ## 🤝 Contributions
 Contributions are welcome! If you’d like to improve the project:
